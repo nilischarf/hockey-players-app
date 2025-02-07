@@ -1,188 +1,195 @@
 {
-    "players": [
-      {
-        "id": 1,
-        "name": "Jonny Brodzinski",
-        "number": 22,
-        "position": "C",
-        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3025614.png&w=350&h=254",
-        "category": "Forward"
-      },
-      {
-        "id": 2,
-        "name": "Sam Carrick",
-        "number": 39,
-        "position": "C",
-        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5474.png",
-        "team": "Forward"
-      },
-      {
-        "id": 3,
-        "name": "Will Cuylle",
-        "number": 50,
-        "position": "LW",
-        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4697468.png",
-        "team": "Forward"
-      },
-      {
-        "id": 4,
-        "name": "Adam Edstrom",
-        "number": 84,
-        "position": "C",
-        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4894222.png&w=350&h=254",
-        "team": "Forward"
-      },
-      {
-        "id": 5,
-        "name": "Arthur Kaliyev",
-        "number": 34,
-        "position": "RW",
-        "image": "https://assets.nhle.com/mugs/nhl/20242025/NYR/8481560.png",
-        "team": "Forward"
-      },
-      {
-        "id": 6,
-        "name": "Chris Kreider",
-        "number": 20,
-        "position": "LW",
-        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5833.png&w=350&h=254",
-        "team": "Forward"
-      },
-      {
-        "id": 7,
-        "name": "Alexis Lafrenière",
-        "number": 13,
-        "position": "LW",
-        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4697382.png&w=350&h=254",
-        "team": "Forward"
-      },
-      {
-        "id": 8,
-        "name": "J.T. Miller",
-        "number": 8,
-        "position": "LW",
-        "image": "https://assets.nhle.com/mugs/nhl/20242025/NYR/8476468.png",
-        "team": "Forward"
-      },
-      {
-        "id": 9,
-        "name": "Artemi Panarin",
-        "number": 10,
-        "position": "LW",
-        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3891952.png",
-        "team": "Forward"
-      },
-      {
-        "id": 10,
-        "name": "Matt Rempe",
-        "number": 73,
-        "position": "C",
-        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4697820.png&w=350&h=254",
-        "team": "Forward"
-      },
-      {
-        "id": 11,
-        "name": "Reily Smith",
-        "number": 91,
-        "position": "RW",
-        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/2500990.png&w=350&h=254",
-        "team": "Forward"
-      },
-      {
-        "id": 12,
-        "name": "Vincent Trochek",
-        "number": 16,
-        "position": "C",
-        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/2563036.png",
-        "team": "Forward"
-      },
-      {
-        "id": 13,
-        "name": "Jimmy Vesey",
-        "number": 26,
-        "position": "LW",
-        "image": "https://static.wikia.nocookie.net/thenhl/images/9/9d/JimmyVesey.png/revision/latest?cb=20240226054736",
-        "team": "Forward"
-      },
-      {
-        "id": 14,
-        "name": "Mika Zibanejad",
-        "number": 93,
-        "position": "C",
-        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/2562637.png&w=350&h=254",
-        "team": "Forward"
-      },
-      {
-        "id": 15,
-        "name": "Will Borgen",
-        "number": 17,
-        "position": "D",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKpL6tLXrCrV8yuB41xBtSpCwd2Yugblx6Qg&s",
-        "team": "Defenseman"
-      },
-      {
-        "id": 16,
-        "name": "Adam Fox",
-        "number": 23,
-        "position": "D",
-        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4197146.png&w=350&h=254",
-        "team": "Defenseman"
-      },
-      {
-        "id": 17,
-        "name": "Zac Jones",
-        "number": 6,
-        "position": "D",
-        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4781635.png",
-        "team": "Defenseman"
-      },
-      {
-        "id": 18,
-        "name": "Ryan Lindgren",
-        "number": 55,
-        "position": "D",
-        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4271998.png&w=350&h=254",
-        "team": "Defenseman"
-      },
-      {
-        "id": 19,
-        "name": "K'Andre Miller",
-        "number": 79,
-        "position": "D",
-        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4352770.png&w=350&h=254",
-        "team": "Defenseman"
-      },
-      {
-        "id": 20,
-        "name": "Braden Schneider",
-        "number": 4,
-        "position": "D",
-        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4697402.png&w=350&h=254",
-        "team": "Defenseman"
-      },
-      {
-        "id": 21,
-        "name": "Urho Vaakanainen",
-        "number": 18,
-        "position": "D",
-        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4233619.png&w=350&h=254",
-        "team": "Defenseman"
-      },
-      {
-        "id": 22,
-        "name": "Jonathan Quick",
-        "number": 32,
-        "position": "G",
-        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3634.png",
-        "team": "Goalie"
-      },
-      {
-        "id": 23,
-        "name": "Igor Shesterkin",
-        "number": 31,
-        "position": "G",
-        "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3151297.png",
-        "team": "Goalie"
-      }
-    ]
-  }
+  "players": [
+    {
+      "id": "1",
+      "name": "Jonny Brodzinski",
+      "number": 22,
+      "position": "C",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3025614.png&w=350&h=254",
+      "team": "Forward"
+    },
+    {
+      "id": "2",
+      "name": "Sam Carrick",
+      "number": 39,
+      "position": "C",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5474.png",
+      "team": "Forward"
+    },
+    {
+      "id": "3",
+      "name": "Will Cuylle",
+      "number": 50,
+      "position": "LW",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4697468.png",
+      "team": "Forward"
+    },
+    {
+      "id": "4",
+      "name": "Adam Edstrom",
+      "number": 84,
+      "position": "C",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4894222.png&w=350&h=254",
+      "team": "Forward"
+    },
+    {
+      "id": "5",
+      "name": "Arthur Kaliyev",
+      "number": 34,
+      "position": "RW",
+      "image": "https://assets.nhle.com/mugs/nhl/20242025/NYR/8481560.png",
+      "team": "Forward"
+    },
+    {
+      "id": "6",
+      "name": "Chris Kreider",
+      "number": 20,
+      "position": "LW",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/5833.png&w=350&h=254",
+      "team": "Forward"
+    },
+    {
+      "id": "7",
+      "name": "Alexis Lafrenière",
+      "number": 13,
+      "position": "LW",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4697382.png&w=350&h=254",
+      "team": "Forward"
+    },
+    {
+      "id": "8",
+      "name": "J.T. Miller",
+      "number": 8,
+      "position": "LW",
+      "image": "https://assets.nhle.com/mugs/nhl/20242025/NYR/8476468.png",
+      "team": "Forward"
+    },
+    {
+      "id": "9",
+      "name": "Artemi Panarin",
+      "number": 10,
+      "position": "LW",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3891952.png",
+      "team": "Forward"
+    },
+    {
+      "id": "10",
+      "name": "Matt Rempe",
+      "number": 73,
+      "position": "C",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4697820.png&w=350&h=254",
+      "team": "Forward"
+    },
+    {
+      "id": "11",
+      "name": "Reily Smith",
+      "number": 91,
+      "position": "RW",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/2500990.png&w=350&h=254",
+      "team": "Forward"
+    },
+    {
+      "id": "12",
+      "name": "Vincent Trochek",
+      "number": 16,
+      "position": "C",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/2563036.png",
+      "team": "Forward"
+    },
+    {
+      "id": "13",
+      "name": "Jimmy Vesey",
+      "number": 26,
+      "position": "LW",
+      "image": "https://static.wikia.nocookie.net/thenhl/images/9/9d/JimmyVesey.png/revision/latest?cb=20240226054736",
+      "team": "Forward"
+    },
+    {
+      "id": "14",
+      "name": "Mika Zibanejad",
+      "number": 93,
+      "position": "C",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/2562637.png&w=350&h=254",
+      "team": "Forward"
+    },
+    {
+      "id": "15",
+      "name": "Will Borgen",
+      "number": 17,
+      "position": "D",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKpL6tLXrCrV8yuB41xBtSpCwd2Yugblx6Qg&s",
+      "team": "Defenseman"
+    },
+    {
+      "id": "16",
+      "name": "Adam Fox",
+      "number": 23,
+      "position": "D",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4197146.png&w=350&h=254",
+      "team": "Defenseman"
+    },
+    {
+      "id": "17",
+      "name": "Zac Jones",
+      "number": 6,
+      "position": "D",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4781635.png",
+      "team": "Defenseman"
+    },
+    {
+      "id": "18",
+      "name": "Ryan Lindgren",
+      "number": 55,
+      "position": "D",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4271998.png&w=350&h=254",
+      "team": "Defenseman"
+    },
+    {
+      "id": "19",
+      "name": "K'Andre Miller",
+      "number": 79,
+      "position": "D",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4352770.png&w=350&h=254",
+      "team": "Defenseman"
+    },
+    {
+      "id": "20",
+      "name": "Braden Schneider",
+      "number": 4,
+      "position": "D",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4697402.png&w=350&h=254",
+      "team": "Defenseman"
+    },
+    {
+      "id": "21",
+      "name": "Urho Vaakanainen",
+      "number": 18,
+      "position": "D",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4233619.png&w=350&h=254",
+      "team": "Defenseman"
+    },
+    {
+      "id": "22",
+      "name": "Jonathan Quick",
+      "number": 32,
+      "position": "G",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3634.png",
+      "team": "Goalie"
+    },
+    {
+      "id": "23",
+      "name": "Igor Shesterkin",
+      "number": 31,
+      "position": "G",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3151297.png",
+      "team": "Goalie"
+    },
+    {
+      "id": "635e",
+      "name": "Kaapo Kakko",
+      "number": "24",
+      "position": "RW",
+      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4565223.png"
+    }
+  ]
+}
