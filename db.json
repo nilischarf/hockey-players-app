@@ -101,7 +101,7 @@
       "name": "Jimmy Vesey",
       "number": 26,
       "position": "LW",
-      "image": "https://static.wikia.nocookie.net/thenhl/images/9/9d/JimmyVesey.png/revision/latest?cb=20240226054736",
+      "image": "https://assets.nhle.com/mugs/nhl/20242025/NYR/8476918.png",
       "team": "Forward"
     },
     {
@@ -183,13 +183,6 @@
       "position": "G",
       "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/3151297.png",
       "team": "Goalie"
-    },
-    {
-      "id": "635e",
-      "name": "Kaapo Kakko",
-      "number": "24",
-      "position": "RW",
-      "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nhl/players/full/4565223.png"
     }
   ]
 }

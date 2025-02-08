@@ -1,5 +1,6 @@
 import React from "react"
 import PlayerCard from "./PlayerCard"
+import "../App.css"
 
 function PlayerList({ players }) {
     return(

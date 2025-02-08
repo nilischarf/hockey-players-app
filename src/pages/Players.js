@@ -5,7 +5,7 @@ import AddPlayerForm from "../components/AddPlayerForm"
 function Players({ players, addPlayer }) {
     return (
         <div>
-            <h1>Players</h1>
+            <h1>PLAYERS</h1>
             <AddPlayerForm addPlayer={addPlayer} />
             <PlayerList players={players} />
         </div>
