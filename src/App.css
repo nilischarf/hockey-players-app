@@ -18,12 +18,13 @@ nav a {
 
 .player-list {
   display: grid;
+  display: inline-block;
 }
 
 .player-card {
   color: black;
   display: grid;
-  display:inline-block;
+  display: inline-block;
   justify-content: space-between;
   align-items: center; 
   width: 250px;
@@ -55,4 +56,12 @@ nav a {
 .ny-rangers-logo {
   width: 400px;
   margin-top: 20px;
+}
+
+.search-filter-container {
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  align-items: center;
 }
